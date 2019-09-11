@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+
+**/__pycache__/
+
+**/config/
+
+**/data/
+**/logs/
+
+**/bin/
+
+.idea
+
+Pipfile.lock
+Pipfile
